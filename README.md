@@ -36,6 +36,9 @@ The original length_of_stay_days field was already between 0 and 60 on every row
 ## Skills
 Power Query, data cleaning, date parsing, PivotTables, KPI design, Excel dashboard layout, data-quality reporting
 
+## Data Source
+https://www.kaggle.com/datasets/danielsowah123/healthcare-and-pharmaceuticals
+
 ## Author
 Oladotun Ajayi
 https://www.linkedin.com/in/dotunajayi
