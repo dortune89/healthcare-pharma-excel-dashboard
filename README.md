@@ -4,7 +4,7 @@ Tools: Excel, Power Query, PivotTables, PivotCharts, Slicers
 Rows: 48,624 hospital visits | 30 columns
 
 ## What this project shows
-The source file looked complete, but the dates were not usable. Admission and discharge dates were stored in four formats, and most calculated stays were impossible. The dashboard reports both the business metrics and that data-quality problem.
+The source file looked complete, but the dates were not usable. Admission and discharge dates were stored in five formats, and most calculated stays were impossible. The dashboard reports both the business metrics and that data-quality problem.
 
 ## Cleaning in Power Query
 - Standardized gender to Male, Female, and Divers
